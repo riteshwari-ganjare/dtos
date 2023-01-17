@@ -16,5 +16,6 @@ export class UserDto extends DtoBase {
 
     
     password?: string;
+    
 
 }
