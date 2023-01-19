@@ -1,5 +1,5 @@
 import { DtoBase } from "./dtoBase";
-import { ContentType } from "src/enum/contentType.enum";
+import { ContentType } from "../enum/contentType.enum";
 import { UserDto } from "./user.dto";
 export class ContentDto extends DtoBase{
     title?: string;
